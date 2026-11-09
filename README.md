@@ -24,11 +24,11 @@ The objective of this analysis is to use data to better understand healthcare re
 3. <img width="930" height="506" alt="image" src="https://github.com/user-attachments/assets/2989bf67-a3d0-4db9-8cd5-29acc42c143e" />
 
 # Key Take-aways of analysis
-***The analysis suggests that healthcare resilience cannot be explained by a single indicator. European countries experienced the highest observed healthcare-system strain, while South America recorded the highest mortality burden. 
+***The analysis suggests that healthcare resilience cannot be explained by a single indicator. European countries experienced the highest observed healthcare-system strain, while South America recorded the highest mortality burden.***
 
-Vaccination coverage, healthcare capacity, testing capability, and socioeconomic conditions all appear to contribute to resilience, although none independently explain outcomes. 
+***Vaccination coverage, healthcare capacity, testing capability, and socioeconomic conditions all appear to contribute to resilience, although none independently explain outcomes.***
 
-Significant differences in data completeness across regions also indicate that healthcare reporting capability should be considered part of resilience itself. These findings support a multidimensional approach to evaluating healthcare-system preparedness and vulnerability.***
+***Significant differences in data completeness across regions also indicate that healthcare reporting capability should be considered part of resilience itself. These findings support a multidimensional approach to evaluating healthcare-system preparedness and vulnerability.***
 
 
 
