@@ -9,3 +9,4 @@ Objectives:
 The objective of this analysis is to use data to better understand healthcare resilience, identify signs of system strain, and uncover insights that could support more informed decision-making. 
 
 
+<img width="1299" height="703" alt="image" src="https://github.com/user-attachments/assets/8d484b7e-2a2b-4bd8-895e-6f58e1b3c7f1" />
